@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "lmfor"]
 	path = lmfor
-	url = https://github.com/cran/lmfor
+	url = https://github.com/laurimeh/lmfor
